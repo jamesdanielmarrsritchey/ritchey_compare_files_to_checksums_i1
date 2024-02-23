@@ -1,0 +1,13 @@
+Name:Ritchey Compare Files To Checksums
+Implementation:1
+Version:1
+Long Identifier:Ritchey Compare Files To Checksums i1 v1
+Short Identifier:RCFTCi1v1
+Description:Ritchey Compare Files To Checksums will check to see if the checksums listed in checksum files match the current checksums of those files.
+History:
+ - Project started February 23, 2024.
+ - Version 1 completed February 23, 2024.
+Author:James Daniel Marrs Ritchey
+License:Ritchey Permissive License v16
+Notes:
+ - When searching for files the checksum files themselves are not hashed.
